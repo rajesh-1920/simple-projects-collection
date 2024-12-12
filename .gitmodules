@@ -4,3 +4,9 @@
 [submodule "Maze_Run_Game"]
 	path = Maze_Run_Game
 	url = https://github.com/rajesh-1920/Maze_Run_Game
+[submodule "Tic_Tac_Toe_game_java"]
+	path = Tic_Tac_Toe_game_java
+	url = https://github.com/rajesh-1920/Tic_Tac_Toe_game_java
+[submodule "Flutter-Project"]
+	path = Flutter-Project
+	url = https://github.com/rajesh-1920/Flutter-Project
