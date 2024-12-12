@@ -1,6 +1,3 @@
-[submodule "The_Martyr_Tower____animation"]
-	path = The_Martyr_Tower____animation
-	url = https://github.com/rajesh-1920/The_Martyr_Tower____animation
 [submodule "Maze_Run_Game"]
 	path = Maze_Run_Game
 	url = https://github.com/rajesh-1920/Maze_Run_Game
@@ -13,3 +10,6 @@
 [submodule "National_Martyrs_Monument______animation"]
 	path = National_Martyrs_Monument______animation
 	url = https://github.com/rajesh-1920/National_Martyrs_Monument______animation
+[submodule "The-Martyr-Tower-sheed-miner----------animation"]
+	path = The-Martyr-Tower-sheed-miner----------animation
+	url = https://github.com/rajesh-1920/The-Martyr-Tower-sheed-miner----------animation
